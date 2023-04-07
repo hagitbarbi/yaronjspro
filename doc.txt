@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align:right;direction:rtl">מדריך מקיף לקניית מחשב נייד: מה לחפש בשנת 2021</h1><h3 style="text-align:right;direction:rtl"> מבוא: הבנת היסודות של רכישת מחשב נייד</h3><p style="text-align:right;direction:rtl"> <em>מילות מפתח: מדריך לרכישת מחשבים ניידים, מדריך לרכישת מחשבים ניידים, מדריך רכישת מחשב נייד הטוב ביותר, סוגי מחשבים ניידים, מפרט מחשב נייד)</em></p><h3 style="text-align:right;direction:rtl"> כיצד לבחור את המעבד ואת דרישות הביצועים המתאימים לצרכים שלך</h3><p style="text-align:right;direction:rtl"> <em>מילות מפתח: השוואת סוג מעבד, מדריך לבחירת מעבד הליבה של אינטל, דרישות RAM למחשב נייד, בחירת מהירות מעבד)</em></p><h3 style="text-align:right;direction:rtl"> בחירת מערכת ההפעלה המתאימה עבור המחשב הנייד החדש שלך</h3><p style="text-align:right;direction:rtl"> <em>מילות מפתח: Windows 10 או Mac OS יתרונות וחסרונות, בחירה בין לינוקס או Windows OS למחשבים ניידים)</em></p><h3 style="text-align:right;direction:rtl"> הבנת סוגים שונים של צגים וסוללות ליעילות מרבית</h3><p style="text-align:right;direction:rtl"> <em>מילות מפתח: מחשבים ניידים ניידים לעומת שולחניים, טבלת השוואת חיי סוללה עבור מחשבים ניידים)</em></p><h3 style="text-align:right;direction:rtl"> מהן התכונות הטובות ביותר מבחינת גרפיקה ואחסון שכדאי לחפש?</h3><p style="text-align:right;direction:rtl"> <em>מילות מפתח: טבלת השוואה של כרטיסים גרפיים למחשבים ניידים 2021, אחסון בכונן קשיח</em></p><p style="text-align:right;direction:rtl"></p><p style="color: grey;text-align:right;direction:rtl"> <em>💡 טיפ: כדי לכתוב תוכן ידידותי לקידום אתרים, בחר כל כותרת מקטע יחד עם מילות מפתח והשתמש באפשרות &quot;פסקה&quot; מהרצועה. יותר תיאורי הכותרות עם מילות מפתח, יותר טוב.</em> <a href='https://rytr.me/resources#how-to-write-long-form-blogs-amp-articles-using-rytr'><em>למידע נוסף →</em></a></p>
+</body>
+</html>
